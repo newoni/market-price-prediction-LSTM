@@ -1,0 +1,5 @@
+진행 상황
+
+main에서 data 와 lib의 load data 만 수정함 
+
+preprocessing 과 LSTM 부분 연결만 남음
